@@ -123,7 +123,7 @@
   }
 }
 
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1024px) {
   .app__wrapper {
     flex-direction: column;
   }
@@ -137,7 +137,7 @@
   }
 
   .app__wrapper_img img {
-    width: 100%;
+    width: 80%;
   }
 }
 

@@ -1,0 +1,36 @@
+.chefs_word{
+    margin-top: 1rem;
+}
+
+
+.app__chef-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 60px;
+    font-size: 4rem;
+}
+.app_chef_desc{ 
+    margin: 3rem 0;
+    font-style: italic;
+    color: var(--color-grey);
+}
+
+.chefs_quote img{
+    width: 47px;
+    height: 40px;
+}
+
+#chef__name{
+    font-size: 2rem;
+    font-weight: 300;
+
+}
+
+.chef__sign{
+    width: 235px;
+    height: 83;
+    margin-top: 3rem;
+}
+
